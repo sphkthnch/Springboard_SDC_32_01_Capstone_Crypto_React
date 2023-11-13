@@ -1,0 +1,62 @@
+.classBtnCrypto {
+    border-style: groove;
+    background-color: bisque;
+    color:rgb(135, 55, 5);
+    cursor: pointer;
+
+    font-size: 2rem;
+    margin-left:40%;
+    margin-bottom: 5%;
+}
+
+
+.classDivTitle {
+    color: rgb(238, 208, 128);
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+  
+    text-align: center;
+    width: 100%;
+    font-size: 3rem;
+}
+
+.classDisplayTitleH1 {
+    color: blanchedalmond;
+    font-size: 2rem;
+    margin-left:10%;
+    margin-bottom: 5%;
+}
+
+.classDivIntro {
+    width:100%;
+
+    border:solid rgb(150, 239, 174);
+
+    height: 100%;
+  
+    padding: 3px;
+    font-size: 1rem;
+    margin: 10px auto;
+}
+
+.classDivIntro h2 {
+    font-size: 2.5rem;
+    text-align: right;
+    margin: 10px;
+    color: rgba(0, 255, 251, 0.786);
+}
+
+.classDivIntro p {
+    font-size: 1.5rem;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.classDivImg {
+
+    float: left;
+
+    border:dashed rgb(150, 199, 239);
+
+}

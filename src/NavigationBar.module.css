@@ -1,0 +1,35 @@
+.classNav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    background-color:silver;
+    background: linear-gradient(315deg, transparent 75%, #d45d55 0)-10px 0,
+    linear-gradient(45deg, transparent 75%, #d45d55 0)-10px 0,
+    linear-gradient(135deg, #a7332b 50%, transparent 0) 0 0,
+    linear-gradient(45deg, #6a201b 50%, #561a16 0) 0 0 #561a16;
+    background-size: 20px 20px;
+}
+
+.classNavlinkActive {
+    font-size: 2.0rem;
+    margin: 0 2rem;
+    padding: 1rem;
+    text-decoration: none;
+    color: #ffffff;
+
+    border: 2px solid #73eeee;
+    cursor: pointer;
+}
+
+.classNavlinkPending {
+    font-size: 2.0rem;
+    margin: 0 2rem;
+    padding: 1rem;
+    text-decoration: none;
+    color: #ffffff;
+
+    border: 2px solid transparent;
+    cursor: pointer;
+}

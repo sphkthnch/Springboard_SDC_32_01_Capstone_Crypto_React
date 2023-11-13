@@ -1,0 +1,22 @@
+.classDivRoot {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100vw;
+    min-height: 100vh;
+}
+.classHeader,
+.classMain {
+    width: 100%;
+    max-width: 64rem;
+}
+
+.classHeader {
+    height: 6rem;
+    margin: 3rem 6rem;
+}
+
+.classMain {
+    min-height: calc(100vh - 24rem);
+}

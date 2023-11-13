@@ -1,0 +1,24 @@
+.classBtnCurrency {
+    border-style: groove;
+    background-color: bisque;
+    color:rgb(135, 55, 5);
+    cursor: pointer;
+
+    font-size: 2rem;
+    margin-left:40%;
+    margin-bottom: 5%;
+}
+
+.classDisplayTitleH1 {
+    color: blanchedalmond;
+    font-size: 2rem;
+    margin-left:10%;
+    margin-bottom: 5%;
+}
+
+.classDivChart {
+    background-color: white;
+    height:400px;
+    margin-bottom: 10%;
+    border-color: brown;
+}
