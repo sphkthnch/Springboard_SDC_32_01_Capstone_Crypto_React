@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/css/main.f855e6bc.css",
+    "main.js": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/js/main.bbadc9c8.js",
+    "static/js/787.e5f691c2.chunk.js": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/js/787.e5f691c2.chunk.js",
+    "static/media/logo.svg": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Springboard_SDC_32_01_Capstone_Crypto_React/index.html",
+    "main.f855e6bc.css.map": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/css/main.f855e6bc.css.map",
+    "main.bbadc9c8.js.map": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/js/main.bbadc9c8.js.map",
+    "787.e5f691c2.chunk.js.map": "/Springboard_SDC_32_01_Capstone_Crypto_React/static/js/787.e5f691c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bbadc9c8.js"
+  ]
+}
